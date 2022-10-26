@@ -1,0 +1,50 @@
+- What is the use of print function
+1) Write "Hello World!" program
+2) Write a program to display your name
+3) Write a program to display your name with, Good Morning msg HINT : create your name's variable
+4) Write a program to Add two number HINT : num1,num2
+5) Write a program to display your first name, last name, mobile number, Address
+
+- Define operators, types
+6) Write a program to display all Mathematical operators like +,-,*,/,//,**,% 
+6) OR calculator program
+7) Write a program to display usage of all Relational operators like <,>,<=,>= and equality operators ==, !=
+8) What's difference between = and ==
+9) Apply arithmatical operators on String data type (HINT : +, *)
+10)Define identifiers, Keywords, variables
+11) What is the use of following functions
+	int()
+	float()
+	str()
+	complex()
+	complex(x,y)
+	bool()
+	oct()
+	bin()
+	hex()
+	char(int)
+	ord('Char')
+
+12) Write a program to swap 2 numbers
+	a) Using 3rd variable
+	b) Without using 3rd variable
+13) use of logical operators and, or, not
+14) Use of unary, binary, ternary operators
+15) Calculate Area of
+	Circle,
+	Rectangle,
+	Square
+	Triangle
+16) Write a program to display employee's or student's details
+17) Membership operators in, not in
+18) Identity operators is, not is
+19) Which are the following valid identifiers and why
+	num = 10
+	1num = 30
+	num1 = 20
+	num_1 = 40
+	pass = 50
+	True = 1
+	while = 50
+	@var = 10
+	$var2 = 10

@@ -1,0 +1,222 @@
+PYTHON - 0 -> 1
+General purpose language, 
+Easy to learn like English
+
+Requirements
+
+No programming experience needed - I'll teach you everything you need to know
+
+A Mac or PC computer (or Mobile) with access to the internet
+
+No paid software required - I'll teach you how to use Python IDLE, Jupyter Notebooks and Google Colab, Thonny
+
+I'll walk you through, step-by-step how to get all the software installed and set up
+
+Module 1 - Introduction
+Module 2 - Variables
+Module 3 - Operator
+Module 4 - Decision making -if_else Loops
+Module 5 - String
+Module 6 - List
+Module 7 - Tuples
+Module 8 - Dictionary
+Module 9 - Function
+Module 10 - Modules | Packages
+
+
+Core Python
+Introduction to Python
+•	What is Python?
+•	Why python?
+•	History
+•	Features – Dynamic, Interpreted, Object oriented, Embeddable, Extensible, Large standard libraries, Free and Open source
+•	Why Python is General Language?
+•	Limitations of Python
+•	What is PSF?
+•	Python implementations
+•	Python applications
+•	Python versions
+•	python in realtime industry
+•	Software Development Architectures
+•	Python Distributions
+•	Download & Python Installation Process in Windows, Unix, Linux and Mac - Thonny
+•	Online Python IDLE
+•	Python Real-time IDEs like Spyder, Jupyter Note Book, PyCharm, Rodeo, Visual Studio Code, ATOM, PyDevetc
+
+Python Language Fundamentals
+•	Python Implementation Alternatives/Flavors
+•	Keywords
+•	Identifiers
+•	Constants / Literals
+•	Data types
+•	Python Syntax
+
+Different Modes of Python
+•	Interactive Mode
+•	Scripting Mode  | Normal Mode | Batch Mode
+•	Programming Elements
+•	Structure of Python program
+•	First Python Application
+•	Comments in Python
+•	Python file extensions
+•	Setting Path in Windows
+•	Edit and Run python program without IDE
+•	Edit and Run python program using IDEs
+
+Python Variables
+•	String Formatting in Python
+•	Initialization of variables
+•	Local variables
+•	Global variables
+•	‘global’ keyword
+•	Input and Output operations
+•	Data conversion functions – int(), float(), complex(), str(), chr(), ord()
+Operators
+•	Arithmetic Operators
+•	Comparison Operators
+•	Python Assignment Operators
+•	Logical Operators
+•	Bitwise Operators
+•	Shift operators
+•	Membership Operators
+•	Identity Operators
+•	Ternary Operator
+•	Operator precedence
+•	Difference between “is” vs “==”
+
+Input & Output Operators
+•	Print
+•	Input
+
+Control Statements
+•	Conditional control statements
+•	If
+•	If-else
+•	If-elif-else
+•	Nested-if
+•	Loop control statements
+•	for
+•	while
+•	Nested loops
+•	Branching statements
+•	Break
+•	Continue
+•	Pass
+•	Return
+Data Structures or Collections
+•	Introduction
+•	Importance of Data structures
+•	Applications of Data structures
+•	Types of Collections
+•	Sequence
+•	Strings, List, Tuple, range
+•	Non sequence
+•	Set, Frozen set, Dictionary
+•	Strings 
+•	What is string
+•	Representation of Strings
+•	Processing elements using indexing
+•	Processing elements using Iterators
+•	Manipulation of String using Indexing and Slicing
+•	String operators
+•	Methods of String object
+•	String Formatting
+•	String functions
+•	String Immutability
+List Collection
+•	What is List
+•	Need of List collection
+•	Different ways of creating List
+•	List comprehension
+•	List indices
+•	Processing elements of List through Indexing and Slicing
+•	List object methods
+•	List is Mutable
+•	Mutable and Immutable elements of List
+•	Nested Lists
+•	List_of_lists
+•	Hardcopy, shallowCopy and DeepCopy
+•	Python Arrays:
+Tuple Collection
+•	What is tuple?
+•	Different ways of creating Tuple
+•	Method of Tuple object
+•	Tuple is Immutable
+•	Mutable and Immutable elements of Tuple
+•	Process tuple through Indexing and Slicing
+•	List v/s Tuple
+Set Collection
+•	What is set?
+•	Different ways of creating set
+•	Difference between list and set
+•	Iteration Over Sets
+•	Accessing elements of set
+•	Python Set Methods
+•	Python Set Operations
+•	Union of sets
+•	functions and methods of set
+•	Python Frozen set
+•	Difference between set and frozenset ?
+
+Dictionary Collection
+•	What is dictionary?
+•	Difference between list, set and dictionary
+•	How to create a dictionary?
+•	PYTHON HASHING?
+•	Accessing values of dictionary
+•	Python Dictionary Methods
+•	Copying dictionary
+•	Updating Dictionary
+•	Reading keys from Dictionary
+•	Reading values from Dictionary
+•	Reading items from Dictionary
+•	Delete Keys from the dictionary
+•	Sorting the Dictionary
+•	Python Dictionary Functions and methods
+•	Dictionary comprehension
+
+Functions
+•	What is Function?
+•	Advantages of functions
+•	Syntax and Writing function
+•	Calling or Invoking function
+•	Classification of Functions 
+o	No arguments and No return values
+o	With arguments and No return values
+o	With arguments and With return values
+o	No arguments and With return values
+o	Recursion
+•	Python argument type functions : 
+o	Default argument functions
+o	Required(Positional) arguments function
+o	Keyword arguments function
+o	Variable arguments functions
+•	‘pass’ keyword in functions
+•	Nested functions
+•	Non local variables, global variables
+
+Advanced Python
+Python Modules
+•	Importance of modular programming
+•	What is module
+•	Types of Modules – Pre defined, User defined.
+•	User defined modules creation
+•	Functions based modules
+•	Class based modules
+•	Connecting modules
+•	Import module
+•	From … import
+•	Module alias / Renaming module
+•	Built In properties of module
+
+Packages
+•	Organizing python project into packages
+•	Types of packages – pre defined, user defined.
+•	Package v/s Folder
+•	py file
+•	Importing package
+•	PIP
+•	Introduction to PIP
+•	Installing PIP
+•	Installing Python packages
+•	Un installing Python packages

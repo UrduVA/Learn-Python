@@ -1,0 +1,301 @@
+Core Python Exercises, Practice Questions | Programming Exercises @ Page No. 4
+
+Please, Like Share, Subscribe to my Youtube Channel, 
+https://www.youtube.com/channel/UCfxZpoUAjOv72B9KrFnqJpQ?sub_confirmation=1
+
+Join Telegram Discussion Group @ https://t.me/+2uLH_Vk4UHdkMjU1
+
+Join Whatsapp @ https://chat.whatsapp.com/DaIZ0LUEHBu7AfuIiDKNKR
+ 
+Website : https://bagbaninfotech.000webhostapp.com/
+
+Your small contribution will be highly appreciated, If you like my work, Please support me  @ https://ko-fi.com/bagbaninfotech (International)
+
+UPI ID (for Indian): gpay-11215173764@okbizaxis -Google Pay , Name : bagban infotech
+
+Or else you may enroll in following courses @ Udemy :
+
+Python Programming Fundamentals For Absolute Beginners in English: 
+https://www.udemy.com/course/python-programming-fundamentals-zero-to-one/?referralCode=5822917227A2788B4375
+
+Python Programming Fundamentals For Absolute Beginners in Hindi / Urdu : 
+https://www.udemy.com/course/python-programming-fundamentals-zero-to-one-hindi-urdu/?referralCode=CCB01DBBE7F3D4CD0E29
+
+Most of the answer are available in this video and my courses in Udemy : 
+
+https://www.youtube.com/watch?v=JaipvMYoULQ (in Hindi)
+
+
+1. What is Python? What are the benefits of using Python
+2. Who is the Developer of Python and when?
+3. When is Python publicly available ?
+4. What is PSF (Python Software Foundation) ?
+5. What are Different distributions / varieties available for python?
+6. What are the advantages / Features of Python?
+7. What are the applications of Python?
+8. Limitations / Disadvantages of Python?
+9. What are the Python Versions available and which one is the current version?
+10. Why is Python called a portable language?
+11. Different ways / mode to develop Python programs ?
+12. What is an Identifier? What are the different rules to define an identifier ?
+13. Is the python case sensitive?
+14. What is type conversion in Python?
+15. What is a reserved word?
+16. What is a dynamically typed language?
+17. What is an Interpreted language?
+18. What is the data type ? What are the common built-in data types in Python?
+19. What are Literals in Python and explain about different Literals?
+20. What is an operator in Python?
+21. What are the different types of operators in Python?
+22. What is slicing in Python?
+23. What are lists and tuples? What is the key difference between the two?
+24. What is pass in Python?
+25. What is indentation? Is indentation required in python?
+26. What are functions in Python?
+27. How does break, continue and pass work?
+28. How do you write comments in python?
+29. How will you capitalize the first letter of the string?How will you convert a string to all lowercase?
+30. How to comment multiple lines in python?
+31. What are docstrings in Python?
+32. What is the usage of help() and dir() functions in Python?
+33. How can the ternary operators be used in python?
+34. What does len() do?
+35. What does type() do?
+36. What are negative indexes and why are they used?
+37. What is the difference between deep and shallow copy?
+38. What is split used for?
+39. What are Strings?
+40.  What is Decision Control Instruction?
+
+41. Write the use case of following ( if conditional statement of each )
+if
+if else
+if elif else
+
+42. What is the use of while loop
+43. What is the use of for loop
+44. How for loop is different from while loop in Python
+45. What is the use of Else Block of a Loops
+46. When does the else block of a while loop go to work?
+47. Can a while loop be nested within a for loop and vice versa?
+48. Can a while/for loop be used in an if/else and vice versa?
+
+49. Which of the following properties apply to string, list and tuple?
+- Iterable
+- Sliceable
+- Indexable
+- Immutable
+- Sequence
+- Can be empty
+- Sorted collection
+- Ordered collection
+- Unordered collection
+- Elements can be accessed using their position in the collection
+
+50. How will you create an empty list, empty tuple, empty set and empty dictionary?
+51. How will you create a list, tuple, set and dictionary, each containing one element?
+52. What are comprehensions?
+53. What are Functions?
+54. What are the different types of Arguments and parameters in Python?
+55. How do we do function aliasing ?
+56. What is docString?
+
+57. What is a list?
+58. How to create define list,
+59. accessing elements of list,
+60. changing or updating elements of list,
+61. Nested lists,
+62. Deep copy or cloning and shallow copy or aliasing of list,
+63. searching elements in list,
+64. comparison of lists, 
+65. built in function,
+66. list methods,
+67. packing and unpacking of list,
+68. removing elements of list,
+69. removing duplicates elements of list,
+70. list comprehensions,
+
+71. What is tuple?
+72. How to create define tuple,
+73. accessing elements of tuple,
+74. Nested tuples,
+75. searching elements in tuple,
+76. comparison of tuples, 
+77. built in function,
+78. tuple methods,
+79. packing and unpacking of tuple,
+80. tuple comprehensions,
+
+
+Programming Exercises
+- What is the use of print function
+1) Write "Hello World!" program
+2) Write a program to display your name
+3) Write a program to display your name with, Good Morning msg HINT : create your name's variable
+4) Write a program to Add two number HINT : num1,num2
+5) Write a program to display your first name, last name, mobile number, Address
+
+- Define operators, types
+6) Write a program to display all Mathematical operators like +,-,*,/,//,**,% 
+6) OR calculator program
+7) Write a program to display usage of all Relational operators like <,>,<=,>= and equality operators ==, !=
+8) What's difference between = and ==
+9) Apply arithmetic operators on String data type (HINT : +, *)
+10)Define identifiers, Keywords, variables
+11) What is the use of following functions
+	int()
+	float()
+	str()
+	complex()
+	complex(x,y)
+	bool()
+	oct()
+	bin()
+	hex()
+	char(int)
+	ord('Char')
+
+12) Write a program to swap 2 numbers
+	a) Using 3rd variable
+	b) Without using 3rd variable
+13) use of logical operators and, or, not
+14) Use of unary, binary, ternary operators
+15) Calculate Area of
+	Circle,
+	Rectangle,
+	Square
+	Triangle
+16) Write a program to display employee's or student's details
+17) Membership operators in, not in
+18) Identity operators is, not is
+19) Which are the following valid identifiers and why
+	num = 10
+	1num = 30
+	num1 = 20
+	num_1 = 40
+	pass = 50
+	True = 1
+	while = 50
+	@var = 10
+	$var2 = 10
+
+
+
+
+20) Demonstrate how to convert from one number type to another.
+
+21) How will you identify which of the following is a string, list, tuple, set or dictionary?
+{10, 20, 30.5}
+[1, 2, 3.14, 'India']
+{12 : 'Simple', 43 : 'Complicated', 13 : 'Complex'}
+"Check it out!"
+3 + 2j
+3,
+3
+(3 , )
+
+21) What will be the output of the following code snippet?
+s1 = s2 = s3 = "Hello World"
+print(id(s1), id(s2), id(s3))
+
+22) Write a program that generates the following output from the string
+"Python is a high-level, general-purpose programming language."
+Print whole string
+Print whole string by indexing
+Print whole string by indexing with step 
+Python
+ is a high-level, general-purpose programming language
+Pto sahg-ee,gnrlproepormiglnug.
+yhni
+ython is a hig
+.egaugnal gnimmargorp esoprup-lareneg ,level-hgih a si nohtyP
+ language
+high-level, general-purpose
+
+PYTHON IS A HIGH-LEVEL, GENERAL-PURPOSE PROGRAMMING LANGUAGE.
+
+
+23) While purchasing certain items, a discount of 10% is offered if the quantity purchased is more than 1000. If quantity and price per item are input through the keyboard, write a program to calculate the total expenses.
+
+24) In a company an employee is paid as under:
+If his basic salary is less than Rs. 1500, then HRA = 10% of basic salary and DA = 90% of basic salary. If his salary is either equal to or above Rs. 1500, then HRA = Rs. 500 and DA = 98% of basic salary. If the employee's salary is input through the keyboard, write a program to find his gross salary.
+
+25) Percentage marks obtained by a student are input through the
+keyboard. The student gets a division as per the following rules:
+Percentage above or equal to 60 - First division
+Percentage between 50 and 59 - Second division
+Percentage between 40 and 49 - Third division
+Percentage less than 40 - Fail
+Write a program to calculate the division obtained by the student.
+
+26) Any integer is input through the keyboard. Write a program to find out whether it is an odd number or even number.
+
+27) Any year is input through the keyboard. Write a program to determine whether the year is a leap year or not.
+
+28) If the ages of Raj, Sahil and Samir are input through the keyboard, write a program to determine the youngest of the three.
+
+29) Write a program to check whether a triangle is valid or not, when the three angles of the triangle are entered through the keyboard.
+
+30) Write a program in Python to produce Star triangle.
+31) Write a program to produce Fibonacci series in Python.
+32) Write a program in Python to check if a number is prime.
+33) Write a program in Python to check if a sequence is a Palindrome.
+34) Write a program that receives 3 sets of values of p, n and r and calculates simple interest for each.
+35) Write a program to print the first 25 odd numbers using range( ).
+
+36) A five-digit number is entered through the keyboard. Write a program to obtain the reversed number and to determine whether the original and reversed numbers are equal or not.
+
+37) Using list comprehension, write a program to create a list by multiplying each element in the list by 10.
+
+38) Write a program to receive three integers from the keyboard and get their sum and product calculated through a user-defined function cal_sum_prod( ).
+
+Find the max value by taking 2 values from user / keyboard
+
+Find the min value by taking 2 values from user / keyboard
+
+Find the max value by taking 3 values from user / keyboard
+
+Find the min value by taking 3 values from user / keyboard
+
+Check given number is even or odd
+
+Check year is leap or not
+
+Check given number in between 0-100
+
+Check given number less than 50
+
+check given number in between 0-30 (Output should be : 0-10, 11-20, 21-30)
+
+You are getting 5% discount if total is greater than 500
+You are getting 10% discount if total is greater than 1000
+You are getting 20% discount if total is greater than 2000
+No discount , total is less than 500
+
+Check grade of student
+greater than 75 "A"
+greater than 60 and less than 75 "B"
+greater than 35 and less than 60 "C"
+less than 35  "Fail"
+
+Make calculator to check Tax slab in india
+
+Take a value 1-7  from user and display Days name (eg. 1 - Sunday )
+
+Take a value 0-9  from user and display it in Name (e.g. 1 - One)
+
+1) Write a program to print your name 10 times
+2) Write a program to print odd numbers below 50
+3) Write a program to print even numbers below 50
+3) Write a program to print even and odd numbers below 50
+4) Write a program to print table of your choice
+5) break statement
+6) continue statement
+7) pass statement
+8) else statement in while loop, when it will not going to executes
+
+
+
+
+
+

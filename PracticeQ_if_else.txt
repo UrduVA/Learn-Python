@@ -1,0 +1,34 @@
+Find the max value by taking 2 values from user / keyboard
+
+Find the min value by taking 2 values from user / keyboard
+
+Find the max value by taking 3 values from user / keyboard
+
+Find the min value by taking 3 values from user / keyboard
+
+Check given number is even or odd
+
+Check year is leap or not
+
+Check given number in between 0-100
+
+Check given number less than 50 
+
+check given number in between 0-30 (Output should be : 0-10, 11-20, 21-30)
+
+You are getting 5.5% discount if total is greater than 500
+You are getting 10.5% discount if total is greater than 1000
+You are getting 20% discount if total is greater than 2000
+No discount , total is less than 500
+
+Check grade of student
+greater than 75 "A"
+greater than 60 and less than 75 "B"
+greater than 35 and less than 60 "C"
+less than 35  "Fail"
+
+Make calculator to check Tax slab in india
+
+Take a value 1-7  from user and display Days name (eg. 1 - Sunday )
+
+Take a value 0-9  from user and display it in Name (e.g. 1 - One)

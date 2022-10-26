@@ -1,0 +1,9 @@
+1) Write a program to print your name 10 times
+2) Write a program to print odd numbers below 50
+3) Write a program to print even numbers below 50
+3) Write a program to print even and odd numbers below 50
+4) Write a program to print table of your choice
+5) break statement
+6) continue statement
+7) pass statement
+8) else statement in while loop, when it will not going to executes
